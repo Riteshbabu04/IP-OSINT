@@ -3,8 +3,6 @@
 
 A simple command-line tool to gather Open Source Intelligence (OSINT) on a given IP address by providing links and descriptions of various online analysis tools, with flexible options for category selection and browser opening.
 
-![IP-OSINT Banner](https://github.com/user-attachments/assets/02897520-1f35-42a6-a880-83ce7afb6f7c)
-
 ## Usage
 
 You can provide the IP address and choose categories either as command-line arguments or through an interactive menu.
@@ -78,7 +76,7 @@ python ip.py 1.1.1.1 -g -r -o
 ```
 This command will analyze the IP `1.1.1.1`, display tools from the Geolocation and Reputation/Blacklists categories, and open the links in your browser.
 
-![image](https://github.com/user-attachments/assets/befd090b-4471-463b-84c9-506d7a3f5790)
+
 
 
 
